@@ -1,0 +1,13 @@
+
+conda create -n py36 python=3.6
+conda activate py36
+pip install cmake
+conda install -c conda-forge dlib
+pip install opencv-python==4.6.0.66
+
+
+
+conda create --name myclone --clone myenv
+conda info --envs
+conda list
+conda list -n myenv scipy

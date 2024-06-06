@@ -1,0 +1,8 @@
+
+Andrew Ng Advice:
+- read alot of papers and work to replicate results
+- dirty work (cleaning data or tuning hyperparameters)
+
+
+Andrew Ng Specialization 
+https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU

@@ -1,0 +1,157 @@
+
+Number of files: 17
+Number of functions: 86
+Number of line: 807
+==================================
+File tree:
+
+>>> .vscode
+-----------------------------
+
+>>> dataset
+	dataset.py
+-----------------------------
+
+>>> handler
+	class_BasicModel.py
+	handler.py
+-----------------------------
+
+>>> model
+	class_CnnFunctional.py
+	class_CnnSeq.py
+	class_Lstm.py
+	class_LstmBi.py
+	class_LstmConv2d.py
+	class_ResNet.py
+	class_Vgg16.py
+	class_Vgg16Seq.py
+	class_VggBiLstm.py
+	class_VggLstm.py
+-----------------------------
+
+>>> tools
+	configure.py
+	folder.py
+	results.py
+-----------------------------
+
+>>> __pycache__
+-----------------------------
+
+==================================
+Function tree:
+
+-----------------------------
+
+>>> dataset.py
+	 read_folder_images
+	 get_rating
+	 read_real_data
+	 batchize
+	 read_resize_image
+	 read_predict
+	 read_random
+	 upload_images
+	 prepare_sample
+	 read_sample_images
+-----------------------------
+
+>>> class_BasicModel.py
+	 __init__
+	 __del__
+	 build 
+	 summery_plot
+	 plot
+	 summery
+	 experiment_basic
+	 experiment_loop
+	 loop_train
+	 train 
+	 test 
+	 predict 
+	 inf_predict 
+	 random_predict 
+	 batchize_data
+	 load_model
+	 save_model
+	 load_weights
+	 load_parameters
+	 save_parameters
+>>> handler.py
+	 load_modules
+	 intial_config
+	 dataset_config
+	 read_sample
+	 read_real
+	 run_models
+	 run_model
+	 special_run
+	 final_config
+-----------------------------
+
+>>> class_CnnFunctional.py
+	 build 
+>>> class_CnnSeq.py
+	 build 
+>>> class_Lstm.py
+	 build 
+>>> class_LstmBi.py
+	 build 
+>>> class_LstmConv2d.py
+	 build 
+>>> class_ResNet.py
+	 relu_bn
+	 create_plain_net
+	 build
+	 experiment_2
+	 special_predict
+	 load_metadata
+	 get_rating
+>>> class_Vgg16.py
+	 build 
+	 build_1 
+>>> class_Vgg16Seq.py
+	 build 
+>>> class_VggBiLstm.py
+	 build 
+>>> class_VggLstm.py
+	 build 
+-----------------------------
+
+>>> configure.py
+	 print_line 
+	 printer
+	 check_tools
+	 show_version 
+	 configure_tensor
+	 read_tags
+	 use_cpu 
+	 use_gpu 
+	 use_device 
+	 show_period
+>>> folder.py
+	 init_path
+	 get_file_count
+	 update_list
+	 is_exist
+	 get_dir_image_num
+	 get_dir_image_name
+	 download_image
+	 download_patch
+	 collect_names_patch
+>>> results.py
+	 __init__
+	 print_results
+	 calculate_results
+	 format_percentage
+	 accuracy
+	 recall
+	 precision
+	 f1
+	 cm_accuracy
+	 plot_array
+	 show_graphs
+-----------------------------
+
+-----------------------------
