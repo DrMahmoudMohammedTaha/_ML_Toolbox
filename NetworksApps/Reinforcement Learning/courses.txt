@@ -1,0 +1,10 @@
+
+hugging faces course
+https://huggingface.co/learn/deep-rl-course/en/unit0/introduction
+
+coursera specialization 
+https://www.coursera.org/specializations/reinforcement-learning
+
+David Silver youtube course
+https://www.youtube.com/playlist?list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-
+
