@@ -1,7 +1,7 @@
 
 
 # Use the official Python image as base
-FROM python:3.6
+FROM python:3.10
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE 1

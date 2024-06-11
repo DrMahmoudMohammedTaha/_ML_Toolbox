@@ -2,16 +2,19 @@
 
 
 build app into image
-docker build -t fastapi-app .
-
-run uvicorn app
-uvicorn main:app --reload
+docker build -t fastapi-app.
 
 run docker image
 docker run -it ubuntu
 
 run and bind 8000 port on image to host 8000 port
 docker run -d --name fastapi-container -p 8000:8000 fastapi-app
+
+to remove all garbage and unused images
+docker system prune
+
+run uvicorn app
+uvicorn main:app --reload
 
 to get all current versions
 pip freeze > requirements.txt 

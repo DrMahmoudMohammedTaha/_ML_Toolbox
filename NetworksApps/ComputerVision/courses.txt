@@ -1,0 +1,6 @@
+
+
+coursera courses
+
+- https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?ref=mentorcruise
+- https://www.coursera.org/learn/computer-vision-basics?ref=mentorcruise
