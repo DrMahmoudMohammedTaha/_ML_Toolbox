@@ -6,7 +6,7 @@ Andrew Ng Advice:
 Updates:
 - Youtube Channels: https://www.youtube.com/@YannicKilcher
 - https://paperswithcode.com/
-- NIPS, CVR, ICMPL
+- NIPS, CVPR, ICMPL
 
 Courses:
 1- Andrew Ng Deep Leanring Specialization 
@@ -17,7 +17,9 @@ Courses:
 6- Computer Vision (Learn openCV)
 
 
-Topics
+Topics:
+- Diffusion
+- Deep Learning cheat sheet
 
 
 
