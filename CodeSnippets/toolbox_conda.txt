@@ -1,16 +1,23 @@
 
+# use conda environment
 conda create -n py36 python=3.6
 conda activate py36
-pip install cmake
-conda install -c conda-forge dlib
-pip install opencv-python==4.6.0.66
-
-
-install local library file
-python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl 
-
+conda deactivate 
 
 conda create --name myclone --clone myenv
 conda info --envs
 conda list
 conda list -n myenv scipy
+
+
+# install local library file
+python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl 
+
+# additional
+pip install cmake
+conda install -c conda-forge dlib
+pip install opencv-python==4.6.0.66
+
+
+
+
