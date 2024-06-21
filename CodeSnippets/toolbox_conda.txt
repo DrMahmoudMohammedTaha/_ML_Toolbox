@@ -10,14 +10,5 @@ conda list
 conda list -n myenv scipy
 
 
-# install local library file
-python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl 
-
-# additional
-pip install cmake
-conda install -c conda-forge dlib
-pip install opencv-python==4.6.0.66
-
-
 
 

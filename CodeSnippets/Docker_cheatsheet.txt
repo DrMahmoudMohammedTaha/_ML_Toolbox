@@ -1,36 +1,27 @@
 
 
-
-build app into image
+# build app into image
 docker build -t fastapi-app.
 
-run docker image
+# run docker image
 docker run -it ubuntu
 
-run and bind 8000 port on image to host 8000 port
+# run and bind 8000 port on image to host 8000 port
 docker run -d --name fastapi-container -p 8000:8000 fastapi-app
 
-to remove all garbage and unused images
+# to remove all garbage and unused images
 docker system prune
 
-run uvicorn app
-uvicorn main:app --reload
-
-to get all current versions
-pip freeze > requirements.txt 
-
-to add files and folders to be ignoredd
-.dockerignore
-
-to publish your image
+# to publish your image
 docker login
 docker tag imageName userName/imageName
 docker push userName/imageName
 
-
-one command for every thing
+# one command for every thing
 docker init
 
-use compose.yaml to add important services for docker
+# use compose.yaml to add important services for docker
 docker compose up
 
+# to add files and folders to be ignoredd
+.dockerignore

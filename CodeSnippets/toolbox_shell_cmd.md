@@ -1,4 +1,17 @@
 
+# to get all current versions
+pip freeze > requirements.txt 
+
+# install local library file
+python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl 
+
+# additional
+pip install cmake
+conda install -c conda-forge dlib
+
+# run uvicorn app
+uvicorn main:app --reload
+
 # copy file
 !cp "/content/drive/My Drive/TAI-sorted.zip"  "/content/json"
 
