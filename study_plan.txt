@@ -1,28 +1,24 @@
 
+Courses Track:
+1- Andrew Ng Deep Leanring Specialization 
+2- PyTorch crash coursse
+3- GAN specialization
+4- Reinforcement Specilaization - Alberta
+
+Advanced Topics:
+- Diffusion
+- Deep Learning cheat sheet
+- NLP specialization (Transformer)
+- Computer Vision (Learn openCV)
+
 Andrew Ng Advice:
 - read alot of papers and work to replicate results
 - dirty work (cleaning data or tuning hyperparameters)
 
-Updates:
+Get Updated:
 - Youtube Channels: https://www.youtube.com/@YannicKilcher
 - https://paperswithcode.com/
 - NIPS, CVPR, ICMPL
-
-Courses:
-1- Andrew Ng Deep Leanring Specialization 
-2- PyTorch crash coursse
-3- GAN specialization
-4- NLP specialization (Transformer)
-5- Introduction to Reinforcement Learning - alberta
-6- Computer Vision (Learn openCV)
-
-
-Topics:
-- Diffusion
-- Deep Learning cheat sheet
-
-
-
 
 
 
