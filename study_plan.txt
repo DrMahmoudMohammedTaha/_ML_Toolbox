@@ -1,7 +1,7 @@
 
 Courses Track:
-1- Andrew Ng Deep Leanring Specialization 
-2- PyTorch crash coursse
+1- Andrew Ng Deep and Machine Specializations 
+2- PyTorch crash course
 3- GAN specialization
 4- Reinforcement Specilaization - Alberta
 

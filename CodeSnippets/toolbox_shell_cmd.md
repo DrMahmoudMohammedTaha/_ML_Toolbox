@@ -3,7 +3,10 @@
 pip freeze > requirements.txt 
 
 # install local library file
-python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl 
+python -m pip install dlib-19.22.99-cp310-cp310-win_amd64.whl 
+
+# get the path of any installed lib
+where conda
 
 # additional
 pip install cmake
