@@ -4,12 +4,15 @@ Courses Track:
 2- PyTorch crash course
 3- GAN specialization
 4- Reinforcement Specilaization - Alberta
+5- Mathematics for ML: https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
 
 Advanced Topics:
 - Diffusion
 - Deep Learning cheat sheet
 - NLP specialization (Transformer)
 - Computer Vision (Learn openCV)
+- MIT Linear Algebra: https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
+- Sequecne Specialization: https://www.coursera.org/learn/nlp-sequence-models
 
 Andrew Ng Advice:
 - read alot of papers and work to replicate results
