@@ -4,8 +4,15 @@ conda create -n py36 python=3.6
 conda activate py36
 conda deactivate 
 
-conda create --name myclone --clone myenv
+# make a copy of an environment
+conda create --name myclone --clone root
+
+# remove environment
+conda env remove --name environment_name
+
+# list all envornments
 conda info --envs
+
 conda list
 conda list -n myenv scipy
 

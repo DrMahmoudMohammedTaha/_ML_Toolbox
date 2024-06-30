@@ -1,13 +1,13 @@
 
 
 # build app into image
-docker build -t fastapi-app .
+docker build -t safe-app .
 
 # run docker image
 docker run -it ubuntu
 
 # run and bind 8000 port on image to host 8000 port
-docker run -d --name fastapi-container -p 8000:8000 fastapi-app
+docker run -d --name safe-container -p 8000:8000 safe-app
 
 # run docker image in interactive mode 
 docker run -it yourimage /bin/bash
