@@ -13,6 +13,8 @@ Advanced Topics:
 - Computer Vision (Learn openCV)
 - MIT Linear Algebra: https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D
 - Sequecne Specialization: https://www.coursera.org/learn/nlp-sequence-models
+- Arabic ML: https://m.youtube.com/playlist?list=PLyhJeMedQd9QrXtCspclJ9ace2urp05o0
+- Arabic Deep: https://www.youtube.com/playlist?list=PL6-3IRz2XF5X-lzMZdmkvGAx1a3kIm7_I
 
 Andrew Ng Advice:
 - read alot of papers and work to replicate results
