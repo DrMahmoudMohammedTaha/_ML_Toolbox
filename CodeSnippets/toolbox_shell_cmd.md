@@ -8,6 +8,9 @@ subprocess.check_call([sys.executable, "-m", "pip", "install", "flask-mysqldb"])
 # to get all current versions
 pip freeze > requirements.txt 
 
+# to install all requirements
+pip install -r requirements.txt -t lib
+
 # install local library file
 python -m pip install dlib-19.22.99-cp310-cp310-win_amd64.whl 
 
