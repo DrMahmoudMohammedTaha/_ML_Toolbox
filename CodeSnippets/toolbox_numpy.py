@@ -152,8 +152,10 @@ def basic_tools():
     x.flatten() #  Flatten the array into a 1D array.
     np.concatenate() # Concatenate arrays along a specified axis.
 
-# temp codes 
-# for name, value in globals().items():
-#     if value is item:
-#         print("#" * 15 + "\nITEM: " + name)
-#         break
+
+A = np.array([1.00, 2.00, 3.00])
+B = np.array([1.00, 2.00, 3.01])
+np.array_equal(A, B)
+# False
+np.allclose(A, B, atol=0.01)
+# True
